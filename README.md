@@ -1,4 +1,9 @@
-# beers
+
+<p align="center">
+  <a href="http://rybkin.me">
+    <img width="369" height="206" src="https://i.ibb.co/hHZTTNF/beer.png">
+  </a>
+</p>
 
 ## Project setup
 ```
